@@ -22,4 +22,4 @@ Market Value of company  = share_price x no of shares
 Working Capital : Reinvesting capital 
 
 
-
+[Derivative financial instruments](generic_terms/DFI.md) : Companies invest in derivative instruments to hedge a % of their operational position  
