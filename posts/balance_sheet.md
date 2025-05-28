@@ -62,3 +62,10 @@ Accounting standards prohibits offsetting assets and liabilities. So we need to 
 **Current tax liability** : Income tax payable to government but not yet paid.
 
 
+
+## EQUITY 
+
+**Share Capital** : Money raised from equity investors  
+
+**Other Equity** : Reinvestmenst + 
+

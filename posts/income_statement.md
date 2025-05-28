@@ -27,8 +27,10 @@ Service Charges : Charges levied to customers for services directly tied to the 
 
 
 
-## EXPENSE  
+## EXPENSE
 [COGS](income_statement/COGS.md) : Cost of goods sold, this is the amount of goods sold in the market and involves the production cost of the goods. It differs industry wise 
+
+Impairment on financial instruments : NPA / Non-performing assets 
 
 
 Employee benefit program : Employee costs 
@@ -37,7 +39,7 @@ Other Expense : Other Operating Expenses
 
 Operating Expense : Expenses that are required to run the operations daily. Doesn't include COGS, 
 
-PBT : Profit Before Tax 
+PBT : Profit Before Tax
 
 Taxes : Tax paid / Reconciled
 PAT : Profit After Tax

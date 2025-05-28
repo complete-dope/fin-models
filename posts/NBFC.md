@@ -14,7 +14,7 @@ These include :
 7. Shriram Finance 
 
 # MAIN BUSINESS 
-Provides loans to riskier profiles at higher interest rate than traditional banks and have recovery team to recover the loans 
+Provides *loans* to riskier profiles at higher interest rate than traditional0 banks and have recovery team to recover the loans 
 Input : Borrowing using NCD's, Bank loans , Commercial papers, Securitization  + Equity 
 Straightforward business ( buy at lower rate , sell at higher rate)
 
@@ -25,10 +25,15 @@ IFRS (International financial reporting system) : Credit risk profile and how co
 Stage-1 : Loans in which the credit profile hasn't increased much .. they are not risky 
 Stage-2 : Potential to default , underperforming loans, the people involved might default
 Stage-3	: NPA ( this money is not going to come back ) 
- 
+
 
 Tier-1 Capital : Own money + Equity + Retained earnings , represented in % to the total debt raised 
 Tier-2 Capital : Backup Capital ( reserves + debts etc )
+
+
+ARC : Asset Reconstruction Company, they buy NPA from bank or from NBFC and are legally (acc. to SARFAESI Act) authorised to not bring in courts in between and have there specialised method of extraction of bad debt/NPA
+
+
 
 
 # PROS
@@ -53,8 +58,8 @@ If Interest rate decreases,
 
 
 
-# OVERPRICED / UNDERPRICED 
 
+## COMPANY ANALYSIS
 
-
+Muthooth finance : Top player in gold segment , what if the price of gold increses ? This will lead to giving more amount for that same gold price .. 
 
