@@ -18,13 +18,15 @@ Accounting standards prohibits offsetting assets and liabilities. So we need to 
 
 **Investments** : Investments made to earn interest , dividend , capital gains 
 
+**Bank balance other than cash and cash equivalent** : Bank account holdings that are no immediately available for general use. This includes FD, balance held for loan repayment , government grants. 
+
 
 
 ### NON-FINANCING ACTIVITIES 
 
 **Current tax assets** : Income tax paid to government but not yet adjusted against the current tax liability. Submitted Advance tax now that comes as an asset same happens with Deferred tax. 
 
-**Non Current tax assets** : Income tax paid to government but not yet adjusted against the current tax liability. Submitted Advance tax now that comes as an asset same happens with Deferred tax.
+**Non Current tax assets** : Income tax paid to government but not yet adjusted against the current tax liability. Submitted Advance tax now that comes as an asset same happens with deferred tax.
 
 **Investment Property** : Property that is held for investment purpose, rental income for capital appreciation.
 
@@ -65,7 +67,7 @@ Accounting standards prohibits offsetting assets and liabilities. So we need to 
 
 ## EQUITY 
 
-**Share Capital** : Money raised from equity investors  
+**Share Capital** : Money raised from equity investors, using share program  
 
-**Other Equity** : Reinvestmenst + 
+[**Other Equity**](balance_sheet/other_equity.md) : Follow link to go in-depth
 
