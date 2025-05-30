@@ -67,7 +67,21 @@ Accounting standards prohibits offsetting assets and liabilities. So we need to 
 
 ## EQUITY 
 
-**Share Capital** : Money raised from equity investors, using share program  
+**Share Capital** : Its the money that the company has raised by selling ownership stakes to investors. 
 
-[**Other Equity**](balance_sheet/other_equity.md) : Follow link to go in-depth
+
+[**Other Equity**](balance_sheet/other_equity.md) : Follow link to understand in-depth about other equity.
+
+
+**Authorised share capital** : Maximum no. of shares a company is legally allowed to issue to the public.
+
+
+**Issued share capital** : No. of shares has actually sold to investors and for which it has received money.
+
+
+**Subscribed share capital** : No. of shares that investors have agreed to buy. Sometimes no  all shares offered are actually bought by public
+
+
+**Paid-up Capital** : Subscribed capital that the company has demanded or "called" from the shareholders for payments. 
+
 
