@@ -44,3 +44,23 @@ Based on above data , infer whether the company is overvalued or undervalued
 
 
 
+# FINANCIAL RATIOS 
+
+**PE Ratio** : 
+
+
+**PEG Ratio** : 
+
+
+**Cost of Debt** : Total amount spent to raise debt capital 
+
+
+**Interest Yield** : Income from interest / Debt on which you need to pay interest 
+
+
+**Debt to Equity Ratio** : Debt / Equity
+
+
+
+
+

@@ -46,7 +46,7 @@ Accounting standards prohibits offsetting assets and liabilities. So we need to 
 
 **Debt Securities** : To raise funds from public or institutional investors .. includes bonds, debentures, commercial papers, promissory notes, NCD's . Issued in capital market and are usually tradable in secondary markets.
 
-**Borrowings** : Loans or funds borrowed directly from banks ,financial institutions, or others. Term loans, cash credit, working capital loans, external borrowings. 
+**Borrowings (other than debt securities)** : Loans or funds borrowed directly from banks ,financial institutions, or others. Term loans, cash credit, working capital loans, external borrowings. Includes , Term loans from banks , from financial institutions , certificates payables, 
 
 
 **Lease Liabilities** : Rent paid on the lease asset 
@@ -55,7 +55,7 @@ Accounting standards prohibits offsetting assets and liabilities. So we need to 
 **Subordinated Liabilities** : Debts or obligations that rank lower in repayment priority than other debts. Ranks above equity holders in case of liquidation 
 
 
-**Deposits** : From people, public, if it takes Fixed deposits something like that  
+**Deposits** : From people, public, if it takes Fixed deposits something like that ( applicable for banks, NBFC's ) 
 
 
 ### NON FINANCIAL LIABILITIES
@@ -67,7 +67,7 @@ Accounting standards prohibits offsetting assets and liabilities. So we need to 
 
 ## EQUITY 
 
-**Share Capital** : Its the money that the company has raised by selling ownership stakes to investors. 
+**Share Capital** : Its the money that the company has raised by selling ownership stakes to investors on face value
 
 
 [**Other Equity**](balance_sheet/other_equity.md) : Follow link to understand in-depth about other equity.
