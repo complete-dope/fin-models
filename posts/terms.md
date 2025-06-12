@@ -32,15 +32,20 @@ BEES :  ex: gold bees , nifty bees
 
 
 
-**Deferred revenue** : Cash revenue, divided into 12 months, as this amount was divided into months... 
-Ex : Subscription based you took a subscription of prime for 12 months then in its books amazon will show it as defeerred revenue divided up in 12 months  
+**Deferred revenue** : Cash revenue, divided into 12 months, as this amount was divided into months... Ex : Subscription based you took a subscription of prime for 12 months then in its books amazon will show it as defeerred revenue divided up in 12 months  
 
 
 **Proceeds** : Income / Money flown into (positive cashflow )
 
 
 **Working Capital** : Amount required for day to day business activities. Total Assets - Total liability... 
- 
+
+
+**Treasury Shares** : The Shares owned by the company itself  
+
+
+**Revenue per share** : Total revenue / Total Shares Outstanding
+
 
 
 

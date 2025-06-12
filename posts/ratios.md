@@ -46,10 +46,10 @@ Based on above data , infer whether the company is overvalued or undervalued
 
 # FINANCIAL RATIOS 
 
-**PE Ratio** : 
+**PE Ratio** : Share price / Earnings per share , how much overvalued is the share price of the company   
 
 
-**PEG Ratio** : 
+**PEG Ratio** : Price to earning ratio that is adjusted for EPS-growth-rate
 
 
 **Cost of Debt** : Total amount spent to raise debt capital 
@@ -58,9 +58,18 @@ Based on above data , infer whether the company is overvalued or undervalued
 **Interest Yield** : Income from interest / Debt on which you need to pay interest 
 
 
-**Debt to Equity Ratio** : Debt / Equity
+**Debt to Equity Ratio** : Debt / Equity .. the amount of reliance on debt vs equity that the company   
 
 
+**ROIC** : Return on Invested Capital, the total money invested in the business , total amount / money / profit made from the model 
 
+
+**Gross Profit** : Revenue - COGS
+
+
+**Gross Margin** : Gross Profit / Revenue
+
+
+**
 
 

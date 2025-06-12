@@ -67,6 +67,9 @@ title: Terms in Income Statement
 
 **Operating Efficiency** : Revenue that comes from the main operations / Operating expenses
 
+**Gross Profit** : Revenue - COGS
+
+**Gross Margin** : Gross Profit / Revenue
 
 
 
