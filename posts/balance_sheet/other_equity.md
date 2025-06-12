@@ -60,4 +60,7 @@ Capital reserve = 7,00,000 (one time)
 **OCI** : Unrealized gains / losses on investments. Foreign currency translation adjustments. Remeasurement of defined benefit liabilities 
 
 
+**Paid-Up Capital** : When a company issues new fresh shares, the price of face values goes as in the paid up capital and any premium you pay on it gets recorded as securities premium. 
+For example, let's suppose the face value of the stock is 10 rupees and the listed price is 1000 in an IPO or a company issuing new shares. So the company gets 1000 rupees per share where 10 rupees is the paid up capital and 990 is the securities premium.
 
+    
