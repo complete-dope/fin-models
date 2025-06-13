@@ -16,44 +16,31 @@ Indirect method
 
 **Profit before tax** : Starts from this as it net of the expense + revenue part    
 
-
 **D&A** : Non-cash activity add back as it was removed during PBT , Depreciation and amortization
-
 
 **Finance Cost** : Non-cash (for most business , comes under financing ) added back as it was removed when calculating PBT
 
-
-
 **Impairment on financial instruments** : Non-cash activity, need to add back .. (includes provisional cash , no new cash flow movement happens , original cash flowed in revenue part itself ( loans + interest - borrowing ) )
-
 
 **Profit on sale of PPE** : non-operating activity 
 
-
 **Provision for gratuity** : Non-cash activity, Provisioned income , no cash flown so need to add back
 
-
 **Provision for compensated absence** : Non-cash activity, Provisioned income , no cash flown so need to add back
-
 
 **Dividend income** : Non-operational income , remove it
 
 **Profit / Gain on Investments , mutual funds** : These are all non-operating activities , remove it
 
-
 [**Trade receivables**](cash_flow/trade_receivable.md) : 
 
 [**I/D Bank balance other than cash and cash equivalent**](cash_flow/bank_balance.md) : Cash item, got some cash out/in of non-cash reserves .. so that means either some non-cash items were removed or added back. Decrease means add back , else remove that 
 
-
 **I/D in Loans**  : If loans increase you gave out a lot of cash to people, so subtract the increase in loans ,and add the decrease in loans. 
-
 
 **I/D in other financial assets** :  Increase in Financial assets (bonds owned, IPO) means money flown out, so need to reduce it by subtracting it 
 
-
 **I/D in other non-financial assets** : Other non-financial assets means real-estate, gold , machinery (assets that dont churn out cash), increase in these means cash flown out , so reduce the increased amount ... and vice-versa 
-
 
 **I/D in other financial liability** : liability increased, means you got an expense but have not paid cash for it yet. liability decreased, means you paid up the liability means cash got decreased from reserves so cash reduced 
 
@@ -65,6 +52,7 @@ Indirect method
 
 **I/D in Provisions** : increase means more given out for provision ( thinking about more edge-case scenarios ) so this is non-cash flown event so addition we need to add back  
 
+**Change in non-cash working capital** : Within a year, changes in inventory, receivables, and payables result in a net effect on non-cash working capital.
 
 ## INVESTING ACTIVITIES
 
@@ -85,16 +73,17 @@ Decrease in investment property means company sold out some of its property
 
 **I/D in investments in Security Receipts** : ARC's issue this Security Receipts ( SR's ) to the original bank / financial institution in exchange. And the NBFC can buy security receipts from bank that means if the NBFC's assumes that ARC can recover this profile of debts .. then it buys SR as a discount from banks..  
 
-
 **Dividend income** : Actual cash received from dividends on equity investments held by companies 
 
-## FINANCING ACTIVITIES
+**Settlement** : This is the money you get once you settle that investments.
 
+**Proceeds** : Money that you get when you sell something.
+
+## FINANCING ACTIVITIES
 
 **Issue of equity share capital** : issued some equity , got money from investors against that equity .. 
 
 **Acquistion of NCI** : Money spent to buy non controlling interest 
-
 
 **Proceeds from issue of subsidiary shares to NCI** : Money that flows in when subsidiary company issues new shares directly to parties other than the parent company ...
 
@@ -106,7 +95,18 @@ Decrease in investment property means company sold out some of its property
 
 **Dividend Paid** : to equity investors
 
+**Debt repaid** : Comes from cash flow financing statement.
 
+**Debt raised** : Comes from cash flow financing statement.
 
+**Non Current Borrowing** : Borrowed the money but that is not to be paid in early up.
 
+**Repayment of borrowing** : This is the money repaid from borrowing.
 
+**Interest paid** : Actual money that is paid for the debt taken.
+
+**Proceeds from issue of share capital to non-controlling interest (net of dividend paid)** : Equity raised from investors, net of dividends.
+
+**Net of dividend** : If the company even paid out the dividends, net of them.
+
+**Interest Paid > Finance cost** : This indicates that the amount from the previous year is being paid this year, hence the higher amount.
