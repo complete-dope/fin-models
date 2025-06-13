@@ -34,7 +34,7 @@ Accounting standards prohibits offsetting assets and liabilities. So we need to 
 
 **Right to use Asset (ROU Asset)** : revenue generated from assets that company took on lease, gets a compilmentary lease liability along with it 
 
-**Intangible Assets** : Includes patents, copyrights, trademarks, goodwill, intangible assets under developement. 
+[**Intangible Assets**](balance_sheet/intangible_assest.md) : Includes patents, copyrights, trademarks, goodwill, intangible assets under developement. 
 
 
 
@@ -46,7 +46,11 @@ Accounting standards prohibits offsetting assets and liabilities. So we need to 
 
 **Debt Securities** : To raise funds from public or institutional investors .. includes bonds, debentures, commercial papers, promissory notes, NCD's . Issued in capital market and are usually tradable in secondary markets.
 
+
 **Borrowings (other than debt securities)** : Loans or funds borrowed directly from banks ,financial institutions, or others. Term loans, cash credit, working capital loans, external borrowings. Includes , Term loans from banks , from financial institutions , certificates payables, 
+
+
+[**Working Capital**](balance_sheet/other_equity.md)
 
 
 **Lease Liabilities** : Rent paid on the lease asset 

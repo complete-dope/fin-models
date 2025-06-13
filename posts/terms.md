@@ -9,17 +9,17 @@ title : Generic Terms in Financial Reporting
 
 **Equity Capital** : Face value x No of shares 
 
-**Weighted no. of shares** : This is used in EPS ( earnings per share ) and it takes (no. of days started / total days in a year ) * ( no. of  )
+**Weighted no. of shares** : This is used in EPS ( earnings per share ) and it takes (no. of days started / total days in a year ) * ( alloted no. of shares )
 
-[**Book Value**](generic_terms/BV.md) : The value of shareholder capital as per the Balance Sheet. Tangible Assets - Total Liability = Book Value  
+[**Book Value**](generic_terms/BV.md) : The value of shareholder capital as per the Balance Sheet. Tangible Assets - Total Liability = Book Value
 
 **Market Value of company** : share_price x no of shares
 
 **Working Capital** : Reinvesting capital 
 
-[**Derivative financial instruments**](generic_terms/DFI.md) : Companies invest in derivative instruments to hedge a % of their operational position  
+[**Derivative financial instruments**](generic_terms/DFI.md) : Companies invest in derivative instruments to hedge a % of their operational position
 
-**Grey Market** : Unofficial or unauthorized market where goods or financial instruments are bought and sold outside of the official distribution channels but not illegally  
+**Grey Market** : Unofficial or unauthorized market where goods or financial instruments are bought and sold outside of the official distribution channels but not illegally
 
 **ETF** : These are a type of fund that is traded in the equity market 
 
@@ -27,7 +27,7 @@ title : Generic Terms in Financial Reporting
 
 **Terminal value** : The value of a business, asset or project beyond the explicit forecast period.
 
-**Deferred revenue** : Cash revenue, divided into 12 months, as this amount was divided into months... Ex : Subscription based you took a subscription of prime for 12 months then in its books amazon will show it as defeerred revenue divided up in 12 months  
+**Deferred revenue** : Cash revenue, divided into 12 months, as this amount was divided into months... Ex : Subscription based you took a subscription of prime for 12 months then in its books amazon will show it as defeerred revenue divided up in 12 months
 
 **Proceeds** : Income / Money flown into (positive cashflow )
 
