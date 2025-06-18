@@ -58,7 +58,9 @@ Based on above data , infer whether the company is overvalued or undervalued
 **Interest Yield** : Income from interest / Debt on which you need to pay interest 
 
 
-**Debt to Equity Ratio** : Debt / Equity .. the amount of reliance on debt vs equity that the company   
+**Debt to Equity Ratio** : Debt / Equity .. the amount of reliance on debt vs equity that the company 
+Debt = current debt + non current debt 
+Equity = Shareholder's equity + other Equity ( total equity )
 
 
 **ROIC** : Return on Invested Capital, the total money invested in the business , total amount / money / profit made from the model 

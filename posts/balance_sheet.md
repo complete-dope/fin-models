@@ -47,26 +47,26 @@ Accounting standards prohibits offsetting assets and liabilities. So we need to 
 **Debt Securities** : To raise funds from public or institutional investors .. includes bonds, debentures, commercial papers, promissory notes, NCD's . Issued in capital market and are usually tradable in secondary markets.
 
 
-**Borrowings (other than debt securities)** : Loans or funds borrowed directly from banks ,financial institutions, or others. Term loans, cash credit, working capital loans, external borrowings. Includes , Term loans from banks , from financial institutions , certificates payables, 
+[**Borrowings (other than debt securities)**](balance_sheet/borrowing.md) : Loans or funds borrowed directly from banks ,financial institutions, or others. Term loans, cash credit, working capital loans, external borrowings. Includes , Term loans from banks , from financial institutions , certificates payables, 
 
 
-[**Working Capital**](balance_sheet/other_equity.md)
+[**Working Capital**](balance_sheet/other_equity.md) :
 
 
-**Lease Liabilities** : Rent paid on the lease asset 
+**Lease Liabilities** : Rent paid on the lease assets 
 
 
 **Subordinated Liabilities** : Debts or obligations that rank lower in repayment priority than other debts. Ranks above equity holders in case of liquidation 
 
 
-**Deposits** : From people, public, if it takes Fixed deposits something like that ( applicable for banks, NBFC's ) 
+**Deposits** : From people, public, if it takes Fixed deposits something like that (applicable for banks, NBFC's) 
 
 
 ### NON FINANCIAL LIABILITIES
 
-
 **Current tax liability** : Income tax payable to government but not yet paid.
 
+**Borrowings** : 
 
 
 ## EQUITY 

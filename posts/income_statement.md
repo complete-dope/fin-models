@@ -31,12 +31,21 @@ title: Terms in Income Statement
 ## EXPENSE
 [**COGS**](income_statement/COGS.md) : Cost of goods sold, this is the amount of goods sold in the market and involves the production cost of the goods. It differs industry wise 
 
+**Cost of Raw Materials & Services** : Cost of buying inputs ( materials used ). Building materials, raw materials, consumables, services, etc.
+
 **Impairment on financial instruments** : NPA / Non-performing assets 
 
+[**Purchase of stock in trade**](income_statement/Stock-in-trade.md) : Stock in trade is the inventory of goods that a company has purchased but not yet sold.
 
-**Employee benefit program** : Employee costs 
+**Changes in inventory of finished goods** : Closing inventory - Opening inventory, is positive that means produced or purchase more than you were able to sell it and the goods are unsold. Negative means you are doing a better management keeping lean inventory. 
+
+[**Exceptional Items**](income_statement/Exceptional_items.md) : Net of Non-recurring expenses / profit  that are not part of the regular operations. like Fire Breakout, robbery , non productive assets sold etc 
+
+**Employee benefit program** : Employee costs (salary + promotion + health benefits + insurance etc) 
+
 **D&A** : Depreciation and Amortization 
-**Other Expense** : Other Operating Expenses 
+
+**Other Expense** : Other Operating Expenses like  
 
 **Operating Expense** : Expenses that are required to run the operations daily. Doesn't include COGS, 
 
