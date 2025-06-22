@@ -78,5 +78,7 @@ Equity = Shareholder's equity + other Equity ( total equity )
 
 `=CAGR = (EndingValue / BeginningValue)^(1/Years) - 1`
 
+**Contribution Margin** : Sales revenue - Variable costs 
 
 
+****
