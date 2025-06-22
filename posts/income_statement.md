@@ -51,10 +51,9 @@ title: Terms in Income Statement
 
 **PBT** : Profit Before Tax
 
-**Taxes** : Tax paid / Reconciled  
+[**Taxes**](income_statement/Tax.md) : Tax paid on the Taxable Income 
 
 **PAT** : Profit After Tax
-
 
 [**Non Controlling interest**](income_statement/NCI.md) : If the parent companies have multiple subsidiaries and you are looking at the consolidated balance sheet, then a percentage of total profit goes to the subsidiaries companies .. (follow link for detailed explanation ) 
 

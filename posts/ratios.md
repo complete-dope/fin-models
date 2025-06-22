@@ -72,6 +72,11 @@ Equity = Shareholder's equity + other Equity ( total equity )
 **Gross Margin** : Gross Profit / Revenue
 
 
-**
+**Order Book** : It refers to company's backlog of confirmed orders for products or services that are yet to be delivered. 
+
+**CAGR** : Compound Annual Growth Rate, Take the Ending and beginning value and check raised to power of (1/n) and then subtract 1 from it.
+
+`=CAGR = (EndingValue / BeginningValue)^(1/Years) - 1`
+
 
 

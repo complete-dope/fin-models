@@ -10,7 +10,7 @@ So if you see any mismatch, in the same key that would be due to the above reaso
 ## OPERATING ACTIVITIES
 
 * Remove all Non-Operating expenses
-* Add back all non-cash expenses  
+* Add back all non-cash expenses
 
 Indirect method
 
@@ -32,7 +32,7 @@ Indirect method
 
 **Profit / Gain on Investments , mutual funds** : These are all non-operating activities , remove it
 
-[**Trade receivables**](cash_flow/trade_receivable.md) : 
+[**Trade payables**](cash_flow/trade_receivable.md) : Increase in Trade receivables leads to temporary cash inflow that has not been paid yet 
 
 [**I/D Bank balance other than cash and cash equivalent**](cash_flow/bank_balance.md) : Cash item, got some cash out/in of non-cash reserves .. so that means either some non-cash items were removed or added back. Decrease means add back , else remove that 
 
@@ -51,6 +51,8 @@ Indirect method
 **I/D in Other payables** : Increase means more payables to give out , temporalily its an increment in books
 
 **I/D in Provisions** : increase means more given out for provision ( thinking about more edge-case scenarios ) so this is non-cash flown event so addition we need to add back  
+
+**Working Capital** : 
 
 **Change in non-cash working capital** : Within a year, changes in inventory, receivables, and payables result in a net effect on non-cash working capital.
 
