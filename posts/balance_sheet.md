@@ -5,6 +5,14 @@ title : Balance Sheet
 
 Accounting standards prohibits offsetting assets and liabilities. So we need to specify the earnings from asset in the assets section and liabilities in liabilities section.
 
+## Basics of accounting 
+Accural vs cash method of accounting
+
+**Cash-method**    : Money gets registered in books, only when the money from the client is received or paid.
+**Accural-method** : Money is registered when goods / deliveries are done or project milestones are reached. (this may not be the same as match with the cash received deadline). Not when order is received. 
+    
+
+
 
 ## ASSETS
 

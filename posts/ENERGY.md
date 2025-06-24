@@ -40,6 +40,25 @@ Higher current , leads to more heat loss
 Higher current requires thicker wires to handel current w/o overheating .. cost of copper / aluminium is higher, cost of cable goes up 
 
 
+Order book : amount of pending orders
+
+Example: 
+Installed Capacity aka NamePlate Capacity means what if all conditions are ideal , then the amount of energy produced per hour. 
+So, installed capcacity of 100GW translates to around 40GW only due to capacity factor, capacity factor of 0.3-0.4 in India.. 
+
+Company has Order book of 5.5GW that means, under 100% efficiency , in all favourable case, capacity factor of 1 , this the amount of energy produced per hour . 
+
+Energy per hour = 5.5GWh
+
+Real world Capacity factor is 40%, so its: 
+5.5 * 0.4 => 2.2GWh
+
+
+## Wind energy 
+Onshore  : Capacity factor of 20-50% , on land 
+Offshore : Capacity factor of 40-54% , in between the oceans 
+
+
 
 
 
