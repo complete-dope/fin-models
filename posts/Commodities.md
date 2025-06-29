@@ -4,6 +4,12 @@ title: Commodities Market
 description: Trades like gold, silver, palladium , copper etc 
 ---
 
+## Game theorry is the the only truth on which the commodities market plays !!
+History + Game theory ( only 2 most important things )
+
+
+
+
 ## Gold
 
 📉 If Dollar Goes Up (Stronger):

@@ -18,24 +18,27 @@ title: Terms in Income Statement
 **Net gain on fair-values changes** :  Unrealized gains or losses from the revaluation of financial instruments (like investments, loans, derivatives) marked to market. If you hold bonds or securities and their market price goes up, the gain is recorded here.
 
 
-**Net gain on derecognition of financial instruments** : Realized profit from selling or transferring financial assets (like loans or investments). Eg: Happens a lot in Securitization ..  
+[**Net gain on derecognition of financial instruments**](income_statement/DERECOGNITION.md) : Realized profit from selling or transferring financial assets (like loans or investments). Eg: Happens a lot in Securitization ..  
+
 
 
 **Sale of services** : Tech services + Selling agent + paid assessments 
 
 **Service Charges** : Charges levied to customers for services directly tied to the process. 
 
-
+**Excise Duty** : Tax levied on Manufacturing, on sin goods e.g. alcohol, tobacco, etc. Excise duty is now charged on sin goods that are not good for health, like tobacco, alcohol, etc. Earlier it used to be charged on Sugary items also 
 
 
 ## EXPENSE
 [**COGS**](income_statement/COGS.md) : Cost of goods sold, this is the amount of goods sold in the market and involves the production cost of the goods. It differs industry wise 
 
+**Business origination outsourcing** : At the initial stages / days of the you dont have much customers and resources to attract new customers so you outsource this to a third party.  
+
 **Cost of Raw Materials & Services** : Cost of buying inputs ( materials used ). Building materials, raw materials, consumables, services, etc.
 
 **Impairment on financial instruments** : NPA / Non-performing assets 
 
-[**Purchase of stock in trade**](income_statement/Stock-in-trade.md) : Stock in trade is the inventory of goods that a company has purchased but not yet sold.
+[**Purchase of stock in trade**](income_statement/Stock-in-trade.md) : Stock in trade is the inventory of goods that a company has purchased but not yet sold. Its the stock that the company intends to resell without significant processing 
 
 **Changes in inventory of finished goods** : Closing inventory - Opening inventory, is positive that means produced or purchase more than you were able to sell it and the goods are unsold. Negative means you are doing a better management keeping lean inventory. 
 

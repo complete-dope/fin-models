@@ -1,0 +1,152 @@
+---
+title: Learning about recent iran-israel war and US involvement in it  
+description  : 
+date: 29-06-2025
+---
+
+[youtube](https://www.youtube.com/watch?v=LctUcVqhhns&list=PLREQ8S3NPaQt3JX33DN0QdGgtBJtAcTYQ&index=4)
+
+
+**ANALYTICAL Processes Involved**  
+
+1. UNDERSTAND HISTORY BETWEEN THE COUNTRIES
+2. UNDERSTAND THE CURRENT SITUATION AND PLAYERS INVOLVED 
+3. UNDERSTAND WHAT THEY DID IN PAST / THERE PERSONALITY 
+4. PREDICT WHAT COULD THERE FUTURE ACTION BE  
+
+
+## Tensions between Iran and Saudi Arabia and how they started ? 
+
+> Everything's peaceful till 1979
+
+
+### Why would US invade Iran ? 
+
+Top-3 reasons why a war could break out: 
+
+**Israel lobby**: Millions of Christian Zionists believe that if all the Jews are in Israel and Israel gets the right they deserve then Jesus will come back and the world will be saved.
+
+**Empire** : US is an empire , and US-ukraine war really tarnished its image and to come back to the status of empire they need to do something big and enter war
+
+**Saudi Arabia and Iran** : Both are rivals ? why ? Before 1979 , they were friends both were monarchs and OPEC's and in 1979 political uproar , and 3 things came that lead to Islamic revolution
+
+```
+> Remove monarchy establish a Islamic republic
+> US should be involved in our internal affairs 
+> Islamic law 
+```
+
+And in wake of upright, 600 extremist entered in Saudi-Arabia ( where both mecca and meddiah ) are located and demanded the same 3 rules for saudi also .. 
+There revolt was crushed by army and from that time a war began between saudi and iran and both the countries are in a cold-war since then 
+
+
+## Reasons for tiff between Iran and Saudi Arabia : 
+
+### Religion
+
+SA: Sunni Muslim   
+Iran: Shia Muslim  
+
+610BC : Prophet Muhammad formed Islam , and when he died his succession has a problem , 
+Sunni thought anyone who is capable should be the leader, whereas shia thought only the bloodline of prophet should be the leader
+
+This divide also caused a tiff 
+
+And the Haj , where its belived each muslim should go to mecca and madiah at least once in their life time , this makes SA as a leader in islamic world   
+
+In response, Iran said saudi is ruled by king / monarch that's anti muslim and also its ruled by US that's also its anti muslim 
+
+SA practices most extreme form of Sunni, called wahhabism
+
+1744 : Wahhabism collaborated with SA govt to establish it as a religion 
+
+In , 1930 oil was discovered in SA and the most valuable oil reserve in the world. And this bought prosperity in SA and soon they started shifting to the modern standards aka western standards. And this shift was not accepted by wahhabism and this led to the seige in mecca. 
+
+Osama bin laden was a wahhabist and he was a saudi national and was responsible to spread wahhabism in the Afganistan.
+
+Iran is exporting Shia religion, SA is exporting Wahhabism and they are competing and fighting 
+
+
+### Economic conflict
+
+SA no tax gets revenue from export of Oil and control the global price which leads to higher prices for them 
+
+But Iran doesn't cooperate in this and they have diversed their economy , they have human capital , edcuated people, science , etc .. 
+
+
+### Geopolitical reasons
+Iran is asserting its dominance and SA want to assert its dominance so that's why they are cooperating ... 
+
+
+US and SA provoked Iraq to invade Iran  in 1980 and this is known as the Iran-Iraq war
+
+**Proxy war -1**  
+In 2003, US invaded Iraq ( why?? ) and its had a power vaccuum and Iran took advantage of this power vaccuum and started to assert its dominance in the region as the 2/3 people in Iraq were shia and 1/3 were Sunni and SA started funding this 1/3 people and this lead to civil war in the iraq and they are considered responsible for creating ISIS .. 
+
+
+**Proxy war -2**
+War in Syria, Iran and Russia allied  , and SA , Israel,  US allied and Iran won at end .. 
+
+**Proxy war -3**
+War in Yemen 2014 , yemen rebillion were shia and they attacked rebillion in Yemen, Shock and all, so many bombs , army .. but this didn't work because of the geography , houthis are covered by mountains and they are were blowing up the SA oil fields using cheap drones .. 
+So 3 things SA learned from this: 
+
+```
+> Extremely vulnerable to attack anytime Iran wants can attack SA 
+> Its easy to destroy them due to there oil and desalination plants ( they rely on removing salt from sea water )
+> They need US to protect them and go to war for us.
+```
+
+2001, 9/11 attack 15 of the 19 hijackers were from SA and America was in war with SA and some tiff strted 
+
+2017, NBS , young progressive, 2030 and became friends with Trump and remade ties with America. 
+
+2020 Trump made decision to assasinate Qasem Soleimani, the leader of Iran's Quds force, a special forces unit that is responsible for Iran's military operations outside of Iran ( he is the one that led all the civil wars)
+
+Trump son-in-law Jared Kushner, who was a senior adviser to Trump, was the one who negotiated the deal to Middle east and NBS controlled him and he is good friend of NBS and he was the one who convinced Trump to assassinate Soleimani
+
+
+So SA wants to remove Iran from Map, and Israel is in war with Iran and middle east due to rebel group of hamas and heezbollah and they are also supported by Iran 
+
+And they both want Trump to win 2020 election and do this !! 
+
+### Trump winning in Nov. 2024
+
+
+Biden won in 2020, 91% black people voted for Biden. 
+Standards of people have dropped down from 2020-2024 and US dollar is going to war that had nothing to do with US ... 
+
+Kamala harris, similar to people from suburbs .. 
+Joe biden picked Kamala as VP 
+Opinion about trump is he is less mature than a 5 year old
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
