@@ -13,7 +13,7 @@ date: 29-06-2025
 2. UNDERSTAND THE CURRENT SITUATION AND PLAYERS INVOLVED 
 3. UNDERSTAND WHAT THEY DID IN PAST / THERE PERSONALITY 
 4. PREDICT WHAT COULD THERE FUTURE ACTION BE  
-
+5. USE GAME THEORY FOR PREDICTIONS 
 
 ## Tensions between Iran and Saudi Arabia and how they started ? 
 
@@ -121,14 +121,59 @@ Joe biden picked Kamala as VP
 Opinion about trump is he is less mature than a 5 year old
 
 
+## How did Iranian president died ? 
+
+3 major problems : 
+1. Information more , truth less 
+2. disinformation more , information less
+3. Fake news more , truth less
 
 
+We will use Game theory to analyse the death of Ebrahim Raisi as we are not relying on the information given by media. 
+
+He died in a helicopter accident when he was coming back from azerbaijan and all 9 people present in helicopter died . 
+
+> old helicopter
+> frequently people die in crash ( kobe bryant )
+
+But Game Theory forces us to explore more possibilities:
 
 
+2 more possibilities could be there .. 
+
+> foreign adversary , either US , israel maybe azerbaijan , had a reason to kill him. Israel killed nuclear scientists before + US killed iranian top military commander before. 
+
+> Someone inside Iran wanted to kill him 
+
+ 
+3 helicopters were coming back and only his helicopter crashed and the other 2 helicopters landed safely. (strange)
+
+President in Iran is a CEO , and supreme leader is the one that runs the country 
+So Ebrahim was supposed to become the next supreme leader once the current supreme leader dies.
 
 
+Who would not want that to happen?
+Someone who is 2nd in race ... 2nd in race is the son of current supreme leader 
+
+But Iranians don't like hereditary ( they fought for that in 1979) so people dont want him to become the next supreme leader.
+
+IRGC ( Iran revolutionary guard corpse) there role is to protect the revolution ( aka supreme leader ) and to spread the revolution in the whole of middle east 
+
+Saddam hussian from Iraq was motivated by many interests of people to go war with Iran and this was a brutal war where he died in 1980 and was called Iran - Iraq war
+
+IRGC is the one that killed Saddam hussian. There power rised in country and they became one of the most dominant group in Iran and they control around 10=20% of the economy. People dont like them as they are violent and massive protests have been seen against them.
+
+What would happen if someone else take's place of supreme leader ? He will try to reduce the power of IRGC and will establish his own power. BUT if the son of supreme leader is the one that takes , he wont take over our power, the situation is solved .. 
 
 
+Protest took out and in 1979 , students made US embassy as hostage and when read the classified they got to know the real power is in the embassy not the govt.,  
+
+1953, US embassy was the one that overthrew the government and put back the king shah.
+and now the people are not happy with the US and they want US to get out from Iran at any cost. 
+
+
+Iran has proxies all over Middle east, Hezbolla , youthis , hamas, shia-iraqi militants , syria-militants 
+and they want to provoke war with US and somehow want them to enter to there countries to attack .  
 
 
 
