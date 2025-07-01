@@ -28,7 +28,11 @@ So lets see how US debt increase and methods they take to overcome it and how th
 
 > The most interesting thing about debt is the *repayment* cycle of debt .. the timeline of repayment and how it is repaid. Is there any restructuring happening ? Is the country increasing the deadline to pay the debt ? Can the country even pay it ? How are lenders reacting to it ?
 
-At that time US had around 10-20 years to repay the loan .. and the debt funded industrial expansion and victory; post-war growth reduced it.  
+* Debt is repaid using the taxes collected , revenue collected from states + taxes + etc. 
+
+At that time US had around 10-20 years to repay the loan .. and the debt funded industrial expansion and victory; post-war growth reduced it.
+
+
 
 ## Buildup : Great depression ( 1929-1943 )
 
@@ -216,7 +220,31 @@ Good for numbers but not good for economy
 
 Trump in 2025
 
+
+**Prebuild** of Debt
 ```
+2008 bubble not fully recovered 
+normalization of high debt 
+```
+
+**Main drivers**
+2020 covid debt, medicare debt , all these amounting to debt addition of 5 Trillion dollars
+
+**Post Build**
+After 2023, we should have seen government being serious about the debt repayment and bringing in laws to reduce the debt but that was not the case and infact lead to they are increasing the debt more..
+
+
+Jan 2 , 2025 Debt cieling was increased to 36.2T (whatever debt government had on that day), unless a new congress bill comes that increases this limit, this is the debt limit we are at ... 
+ 
+
+Possible Options to reduce debt ?
+* Reduce the entitlements, cut-programmes
+*  
+
+
+
+
+
 Increasing Tariff rates with countries
 Reducing govt fundings to non-essential programs
 Asking FED to decrease interest rates
