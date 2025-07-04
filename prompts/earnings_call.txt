@@ -1,0 +1,34 @@
+
+Analysing an Earnings calls
+
+----
+Financial figures and ratios and percentages
+
+----
+Glossary : new words with meaning / abbreviattion that are a not used in everyday life 
+
+----
+Prediction for next year / coming year and how much are they expecting for this year 
+
+----
+Relevant points: Pointers that can help in valuing the company and its actual stock price a bit better
+
+----
+Important/Relevant Questions and there crux in answer 
+
+----
+Any figures future calculation that can be made
+
+e.g. if company says next quarter we will do 6% more, then current_quarter_earning * 1.06 => estimated_value
+
+If company mentioned any figure during the its interactions with analyst use think hard to use it and generate some insight from it and dont leave out on any figure  
+
+----
+Estimate the timelines of the project completion and the revenue drivers that will add to the cash flow 
+
+
+---- 
+Summary of the whole call 
+
+
+
