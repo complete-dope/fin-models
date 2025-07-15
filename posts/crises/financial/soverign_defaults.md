@@ -5,10 +5,18 @@ date: 19-06-2025
 ---
 
 Book : This time its different, Eight centuries of financial folly
+Mostly covers the financial crises,( banking and soverign defaults) that happened in the past. 
 
 Sovereign debt + Banking crisis 
 
 ## Chapter-1 : Varities of crises and their dates**
+
+
+**Sovereign Debts** : These are debts that paid by the government of a country to foreign creditors.
+
+
+**Sovereign defaults** : When a country fails to pay its debts or refuses to repay its debt -- either principle, interest or both to foreign or domestic creditors.
+
 
 **Inflation Crises** : Universality and long historical significance. 
 
@@ -33,6 +41,9 @@ Currency crash is defined as annual depreciation of currency in excess of 15%.
 **Banking Crises** : 
 1. Bank Run
 2. Big Bank in serious trouble ( starts a chain reaction where smaller banks also fail) kinda like chain reaction (happened in thailand in 1996-1997)
+
+
+**Debt rescheduling** : Partial default , when a country can't pay its debts fully so it negotiates on interest / principal with its lenders
 
 
 

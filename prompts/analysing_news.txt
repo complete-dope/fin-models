@@ -1,0 +1,40 @@
+
+Analysing any global news article
+
+----
+Which sector are they talking about ? 
+
+---- 
+Top indian companies / players in this sector 
+
+---- 
+Top companies / players dealing in this particular news information 
+Eg. : If news is about US , renewable energy impact, then top indian companies in wind is suzlon energy
+
+----
+What are the problems that can be caused to that company after this news out
+
+----
+What are the benefits that can be made by that company after this news out
+
+----
+Figures / financial figures / ratios / percentages that are talked in the news 
+Eg: 
+```
+If the news says that subsidiary will be removed for PFE renewable companies , immediately search :
+1. PFE companies
+2. Increase in expense after this subsidiary is removed ( use internet for this tool search )
+3. Decrease in revenue after this subsidiary is removed compared to last Financial year
+
+```
+----
+What is the deadline for this scheme to be implemented ? 
+
+---- 
+What are the other sectors that are going to be affected by this news ?
+
+----
+Any other news that can be related to this news for more indepth study
+
+---- 
+Summary of the news
